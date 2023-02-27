@@ -1,0 +1,15 @@
+.img {
+  height: 40px;
+  width: 40px;
+  object-fit: cover;
+  margin-left: -10px;
+}
+.img:first-child {
+  margin-left: 0;
+}
+.border-rad {
+  border-radius: 20px;
+}
+.flex-dar {
+  flex-direction: column;
+}

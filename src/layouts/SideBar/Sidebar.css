@@ -1,0 +1,12 @@
+.parent {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  flex-direction: column;
+}
+.border-rad {
+  border-radius: 20px;
+}
+.img-hi {
+  height: 70px;
+}
